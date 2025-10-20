@@ -183,4 +183,4 @@ MIT License
 
 ## 作者
 
-AI Stock Chart System
+ljq
